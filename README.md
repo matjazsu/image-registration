@@ -35,6 +35,3 @@ A folder, which is used by the graphical user interface to execute different imp
 ```
 GUI.external.path = '/my/custom/path/to/the/external/folder/'
 ```
-
-#### DATA:
-A folder, which is used to store examples of medical images.
